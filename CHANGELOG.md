@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+## Version 1.5.3
+_2020-09-04_
+ * Migrated modules to AndroidX
+
 ## Version 1.5.1
 _2019-03-17_
 
